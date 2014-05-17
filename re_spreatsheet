@@ -1,0 +1,326 @@
+#!/bin/bash
+
+#-------------------------------#
+# Int Type                      #
+#-------------------------------#
+function Is_Digit {
+  RESULT=`echo "$1" | grep "^[0123456789]\{1\}$"`
+
+  case $RESULT in
+    "")
+      RESULT=0
+      ;;
+    *)
+      RESULT=1
+      ;;
+  esac
+}
+
+function Is_Int {
+  RESULT=`echo "$1" | grep "\-\?[0123456789]\{1,10\}$"`
+
+  case $RESULT in
+    "")
+      RESULT=0
+      ;;
+    *)
+      RESULT=1
+      ;;
+  esac
+}
+
+function Succ {
+  RESULT=`echo $1 | tr "0123456789" "1234567890"`
+  RESULT_ADD=`echo $RESULT | sed "s/[^0]/2/" | tr "02" "10"`
+}
+
+function Pred {
+  RESULT=`echo $1 | tr "1234567890" "0123456789"`
+  RESULT_SUB=`echo $RESULT | sed "s/[^9]/0/" | tr "9" "1"`
+}
+
+function Add {
+  local carry_result="n"
+
+  #------------------#
+  # Carry            #
+  #------------------#
+
+  function No_Carry {
+    RESULT=`echo "$1" | sed "s/00/0/" | sed "s/01/1/" | sed "s/02/2/" | sed "s/11/2/" | sed "s/03/3/" | sed "s/12/3/" | sed "s/04/4/" | sed "s/13/4/" | sed "s/22/4/" | sed "s/05/5/" | sed "s/14/5/" | sed "s/23/5/" | sed "s/06/6/" | sed "s/15/6/" | sed "s/24/6/" | sed "s/33/6/" | sed "s/07/7/" | sed "s/16/7/" | sed "s/25/7/" | sed "s/34/7/" | sed "s/08/8/" | sed "s/17/8/" | sed "s/26/8/" | sed "s/35/8/" | sed "s/44/8/" | sed "s/09/9/" | sed "s/18/9/" | sed "s/27/9/" | sed "s/36/9/" | sed "s/45/9/"`
+    local local_result=$RESULT
+
+    Is_Digit "$RESULT"
+
+    case $RESULT in
+      "0")
+        RESULT="next"
+        ;;
+      *)
+        RESULT=$local_result
+        ;;
+    esac
+  }
+
+  function Carry {
+    RESULT=`echo "$1" | sed "s/19/0/" | sed "s/28/0/" | sed "s/37/0/" | sed "s/46/0/" | sed "s/55/0/" | sed "s/29/1/" | sed "s/38/1/" | sed "s/47/1/" | sed "s/56/1/" | sed "s/39/2/" | sed "s/48/2/" | sed "s/57/2/" | sed "s/66/2/" | sed "s/49/3/" | sed "s/58/3/" | sed "s/67/3/" | sed "s/59/4/" | sed "s/68/4/" | sed "s/77/4/" | sed "s/69/5/" | sed "s/78/5/" | sed "s/79/6/" | sed "s/88/6/" | sed "s/89/7/" | sed "s/99/8/"`
+    local local_result=$RESULT
+
+    Is_Digit "$RESULT"
+
+    case $RESULT in
+      "0")
+        RESULT="next"
+        ;;
+      *)
+        RESULT=$local_result
+        carry_result="y"
+        ;;
+    esac
+  }
+
+  #------------------#
+  # Inline           #
+  #------------------#
+
+  function Inline_Add {
+    No_Carry "$1$2"
+
+    if [ $RESULT == "next" ]
+    then
+      Carry "$1$2"
+    fi
+  }
+
+  function Inline_Add_Loop {
+    local num_car_1=`echo "$1" | sed "s/.*\(.\)$/\1/"`
+    local num_car_2=`echo "$2" | sed "s/.*\(.\)$/\1/"`
+    local num_cdr_1=`echo "$1" | sed "s/\(.*\).$/\1/"`
+    local num_cdr_2=`echo "$2" | sed "s/\(.*\).$/\1/"`
+    local new_val=""
+
+    if [ "$carry_result" == "y" ];
+    then
+      Succ "$num_car_1"
+      num_car_1="$RESULT"
+    fi
+
+    Inline_Add "$num_car_1" "$num_car_2"
+
+    if [ "$RESULT" == "next" ]
+    then
+      Inline_Add "$num_car_2" "$num_car_1"
+    fi
+
+    new_val="$RESULT$3"
+
+    if [ "$num_cdr_1" == "" ]
+    then
+      RESULT=`echo "$num_cdr_2$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
+    elif [ "$num_cdr_2" == "" ]
+    then
+      RESULT=`echo "$num_cdr_1$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
+    else
+      Inline_Add_Loop "$num_cdr_1" "$num_cdr_2" "$new_val"
+    fi
+  }
+
+  #------------------#
+  # main add         #
+  #------------------#
+
+  Is_Int "$1"
+  num_1=$RESULT
+  Is_Int "$2"
+  num_2=$RESULT
+
+  if [ $num_1 == $num_2 ] && [ $num_1 == "1" ]
+  then
+    Inline_Add_Loop "$1" "$2" ""
+  fi
+}
+
+function Mul {
+  local constant_number="$1"
+  local new_val="$1"
+
+  function Loop {
+    case $2 in
+      "1")
+        RESULT="$1"
+        ;;
+      *)
+        Add "$1" "$constant_number"
+        new_val="$RESULT"
+        Pred "$2" "1"
+        Loop "$new_val" "$RESULT"
+        ;;
+    esac
+  }
+
+  Loop "$1" "$2"
+}
+
+#-------------------------------#
+# file set                      #
+#-------------------------------#
+function File {
+  function New {
+    FILENAME="$1"
+    echo "" > $FILENAME
+  }
+
+  case $1 in
+    "New")
+      $1 $2
+      ;;
+    *)
+      echo "no file $1 or command error"
+      exit
+      ;;
+  esac
+}
+
+function Size {
+  local local_file="tmp_$FILENAME"
+  local defalut_grid="          0"
+  local column_grid="          0"
+
+  function Set_Column {
+    function Loop {
+      case "$1" in
+        "1")
+          return 0
+          ;;
+        *)
+          column_grid="$column_grid$defalut_grid"
+          Pred "$1"
+          Loop "$RESULT"
+          ;;
+      esac
+    }
+    Loop $1
+  }
+
+  function Set_Row {
+    function Loop {
+      case "$1" in
+        "0")
+          return 0
+          ;;
+        *)
+          echo "$column_grid" >> $local_file
+          Pred "$1"
+          Loop "$RESULT"
+          ;;
+      esac
+    }
+    Loop "$1"
+  }
+
+  SIZE_ROW="$1"
+  SIZE_COLUMN="$2"
+
+  Set_Column "$2"
+  Set_Row "$1"
+  mv $local_file $FILENAME
+}
+
+#-------------------------------#
+# move grid register            #
+#-------------------------------#
+function Move {
+  function Row {
+    ROW=$1
+  }
+
+  function Column {
+    COLUMN=$1
+  }
+
+  case $1 in
+    "Row" | "Column")
+      $1 $2
+      ;;
+    *)
+      echo "move $1 error"
+      ;;
+  esac
+}
+
+#-------------------------------#
+# set grid value                #
+#-------------------------------#
+function Grid {
+  function Set {
+    local set_value="           $1"
+    set_value=`echo "$set_value" | sed "s/^.*\(.\{11\}\)$/\1/"`
+
+    Pred "$COLUMN" "1"
+
+    case $RESULT in
+      "0")
+        RESULT=0
+        ;;
+      *)
+        Mul "11" "$RESULT"
+        ;;
+    esac
+
+    search="\(.\{$RESULT\}\).\{11\}\(.*\)"
+    row_re=$ROW"s/$search/\1$set_value\2/"
+    sed -i "$row_re" "$FILENAME"
+  }
+
+  case $1 in
+    "Set")
+      $1 $2
+      ;;
+    *)
+      echo "Grid set error"
+      ;;
+  esac
+}
+
+#-------------------------------#
+# main                          #
+#-------------------------------#
+function Get_Command {
+  local command=`echo "$1" | sed "s/\(.*\) .* .*/\1/"`
+  local parameter=`echo "$1" | sed "s/.* \(.*\) .*/\1/"`
+  local target=`echo "$1" | sed "s/.* .* \(.*\)/\1/"`
+  $command $parameter $target
+}
+
+function Main_Loop {
+  local file_number=$2"q;d"
+  local new_line=`sed "$file_number" $1`
+  Get_Command "$new_line"
+  echo "$new_line"
+
+  if [ ! "$2" == "$3" ]
+  then
+    Add $2 "1"
+    Main_Loop "$1" "$RESULT" "$3"
+  fi
+}
+
+# FILENAME
+# SIZE_ROW
+# SIZE_COLUMN
+# ROW
+# COLUMN
+
+case $1 in
+  "")
+    echo "no data"
+    ;;
+  *)
+    LAST_LINE=`grep -n ".*" $1 | tail -n 1 | sed "s/\([1234567890]*\):.*/\1/"`
+    SIZE_ROW=1
+    SIZE_COLUMN=1
+    ROW=1
+    COLUMN=1
+    Main_Loop $1 1 $LAST_LINE
+    ;;
+esac
