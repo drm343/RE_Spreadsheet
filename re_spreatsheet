@@ -8,10 +8,10 @@ function Is_Digit {
 
   case $RESULT in
     "")
-      RESULT=0
+      RESULT="false"
       ;;
     *)
-      RESULT=1
+      RESULT="true"
       ;;
   esac
 }
@@ -21,31 +21,46 @@ function Is_Int {
 
   case $RESULT in
     "")
-      RESULT=0
+      RESULT="false"
       ;;
     *)
-      RESULT=1
+      RESULT="true"
       ;;
   esac
 }
 
+function Is_Negative {
+  RESULT=`echo "$1" | grep "\-"`
+
+  case $RESULT in
+    "")
+      RESULT="false"
+      ;;
+    *)
+      RESULT="true"
+      ;;
+  esac
+}
+
+function Decimal_Complement {
+  RESULT=`echo "$1" | tr "1234567890" "8765432109"`
+  Succ "$RESULT"
+}
+
 function Succ {
-  RESULT=`echo $1 | tr "0123456789" "1234567890"`
-  RESULT_ADD=`echo $RESULT | sed "s/[^0]/2/" | tr "02" "10"`
+  Uncheck_Add "$1" "1"
 }
 
 function Pred {
-  RESULT=`echo $1 | tr "1234567890" "0123456789"`
-  RESULT_SUB=`echo $RESULT | sed "s/[^9]/0/" | tr "9" "1"`
+  Add "$1" "-1"
 }
 
-function Add {
-  local carry_result="n"
+function Uncheck_Add {
+  local carry_result="false"
 
   #------------------#
-  # Carry            #
+  # Check Carry      #
   #------------------#
-
   function No_Carry {
     RESULT=`echo "$1" | sed "s/00/0/" | sed "s/01/1/" | sed "s/02/2/" | sed "s/11/2/" | sed "s/03/3/" | sed "s/12/3/" | sed "s/04/4/" | sed "s/13/4/" | sed "s/22/4/" | sed "s/05/5/" | sed "s/14/5/" | sed "s/23/5/" | sed "s/06/6/" | sed "s/15/6/" | sed "s/24/6/" | sed "s/33/6/" | sed "s/07/7/" | sed "s/16/7/" | sed "s/25/7/" | sed "s/34/7/" | sed "s/08/8/" | sed "s/17/8/" | sed "s/26/8/" | sed "s/35/8/" | sed "s/44/8/" | sed "s/09/9/" | sed "s/18/9/" | sed "s/27/9/" | sed "s/36/9/" | sed "s/45/9/"`
     local local_result=$RESULT
@@ -53,11 +68,12 @@ function Add {
     Is_Digit "$RESULT"
 
     case $RESULT in
-      "0")
-        RESULT="next"
+      "false")
+        RESULT="nothing"
         ;;
       *)
         RESULT=$local_result
+        carry_result="false"
         ;;
     esac
   }
@@ -69,12 +85,12 @@ function Add {
     Is_Digit "$RESULT"
 
     case $RESULT in
-      "0")
-        RESULT="next"
+      "false")
+        RESULT="nothing"
         ;;
       *)
         RESULT=$local_result
-        carry_result="y"
+        carry_result="true"
         ;;
     esac
   }
@@ -82,61 +98,221 @@ function Add {
   #------------------#
   # Inline           #
   #------------------#
-
   function Inline_Add {
     No_Carry "$1$2"
 
-    if [ $RESULT == "next" ]
+    if [ $RESULT == "nothing" ]
     then
       Carry "$1$2"
     fi
   }
 
+  function Check_Carry_When_Calculate_End {
+    if [ "$carry_result" == "true" ]
+    then
+      Succ "$1"
+    else
+      RESULT=""
+    fi
+    carry_result="false"
+  }
+
   function Inline_Add_Loop {
-    local num_car_1=`echo "$1" | sed "s/.*\(.\)$/\1/"`
-    local num_car_2=`echo "$2" | sed "s/.*\(.\)$/\1/"`
-    local num_cdr_1=`echo "$1" | sed "s/\(.*\).$/\1/"`
-    local num_cdr_2=`echo "$2" | sed "s/\(.*\).$/\1/"`
+    local num_1_car=`echo "$1" | sed "s/.*\(.\)$/\1/"`
+    local num_2_car=`echo "$2" | sed "s/.*\(.\)$/\1/"`
+    local num_1_cdr=`echo "$1" | sed "s/\(.*\).$/\1/"`
+    local num_2_cdr=`echo "$2" | sed "s/\(.*\).$/\1/"`
     local new_val=""
 
-    if [ "$carry_result" == "y" ];
+    if [ "$carry_result" == "true" ]
     then
-      Succ "$num_car_1"
-      num_car_1="$RESULT"
+      Succ "$num_1_car"
+      num_1_car="$RESULT"
     fi
 
-    Inline_Add "$num_car_1" "$num_car_2"
+    Inline_Add "$num_1_car" "$num_2_car"
 
-    if [ "$RESULT" == "next" ]
+    if [ "$RESULT" == "nothing" ]
     then
-      Inline_Add "$num_car_2" "$num_car_1"
+      Inline_Add "$num_2_car" "$num_1_car"
     fi
 
     new_val="$RESULT$3"
 
-    if [ "$num_cdr_1" == "" ]
+    if [ "$num_1_cdr" == "" ] && [ "$num_2_cdr" == "" ]
     then
-      RESULT=`echo "$num_cdr_2$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
-    elif [ "$num_cdr_2" == "" ]
+      Check_Carry_When_Calculate_End "0"
+      RESULT=`echo "$RESULT$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
+    elif [ "$num_1_cdr" == "" ]
     then
-      RESULT=`echo "$num_cdr_1$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
+      Check_Carry_When_Calculate_End "$num_2_cdr"
+      RESULT=`echo "$num_2_cdr$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
+    elif [ "$num_2_cdr" == "" ]
+    then
+      Check_Carry_When_Calculate_End "$num_1_cdr"
+      RESULT=`echo "$num_1_cdr$new_val" | sed "s/\([1234567890]\{10\}\)$/\1/"`
     else
-      Inline_Add_Loop "$num_cdr_1" "$num_cdr_2" "$new_val"
+      Inline_Add_Loop "$num_1_cdr" "$num_2_cdr" "$new_val"
     fi
   }
 
   #------------------#
-  # main add         #
+  # main uncheck add #
   #------------------#
+  Inline_Add_Loop "$1" "$2" ""
+}
+
+function Add {
+  #------------------#
+  # Order            #
+  #------------------#
+  function Num_1_Big_Than_Num_2 {
+    local num_1_car=""
+    local num_2_car=""
+    local num_1_cdr=""
+    local num_2_cdr=""
+
+    function Loop {
+      RESULT=`echo "$1" | sed "s/0./false/" | sed "s/.*0/true/"`
+
+      case $RESULT in
+        "true" | "false")
+          ;;
+        *)
+          RESULT=`echo "$RESULT" | tr "123456789" "012345678"`
+          Loop "$RESULT"
+          ;;
+      esac
+    }
+
+    Car $1
+    num_1_car=$RESULT
+    Car $2
+    num_2_car=$RESULT
+
+    if [ "$num_1_car" != "$num_2_car" ]
+    then
+      Loop "$num_1_car$num_2_car"
+    fi
+
+    case $RESULT in
+      "true" | "false")
+        ;;
+      *)
+        Cdr $1
+        num_1_cdr=$RESULT
+        Cdr $2
+        num_2_cdr=$RESULT
+
+        if [ "$num_1_cdr" != "" ]
+        then
+          Num_1_Big_Than_Num_2 "$num_1_cdr" "$num_2_cdr"
+        fi
+        ;;
+    esac
+  }
+
+  #------------------#
+  # List Process     #
+  #------------------#
+  function Car {
+    RESULT=`echo "$1" | sed "s/\(.\).*/\1/"`
+  }
+
+  function Cdr {
+    RESULT=`echo "$1" | sed "s/.\(.*\)/\1/"`
+  }
+
+  function Count_String {
+    local new_val=""
+
+    Cdr $1
+    new_val=$RESULT
+    Succ $2
+    count=$RESULT
+
+    if [ "$new_val" != "" ]
+    then
+      Count_String "$new_val" "$RESULT"
+    fi
+  }
+
+  #------------------#
+  # Check Sign       #
+  #------------------#
+  function Get_Sign_Then_Add {
+    local sign=`echo "$1" | tr "1234567890" "          " | sed "s/ *$//"`
+    local row_re="s/.*\(.\{$3\}\)$/\1/"
+
+    Is_Negative $1
+    num_1_is_negative=$RESULT
+
+    Is_Negative $2
+    num_2_is_negative=$RESULT
+
+    RESULT=`echo "$1" | sed "s/\-\(.\{1,10\}\)$/\1/"`
+    num_1=$RESULT
+    RESULT=`echo "$2" | sed "s/\-\(.\{1,10\}\)$/\1/"`
+    num_2=$RESULT
+
+    if [ "$num_1_is_negative" != "$num_2_is_negative" ]
+    then
+      RESULT=`echo "000000000$num_2" | sed "$row_re"`
+      Decimal_Complement $RESULT
+      num_2=$RESULT
+    fi
+
+    Uncheck_Add $num_1 $num_2
+    RESULT=`echo $RESULT | sed "$row_re" | sed "s/^0*0?$\(.*\)/\1/"`
+    RESULT="$sign$RESULT"
+  }
+
+  #------------------#
+  # Main Add         #
+  #------------------#
+  local num_1=""
+  local num_2=""
+  local num_1_is_digit=""
+  local num_2_is_digit=""
+  local count_1=""
+  local count_2=""
 
   Is_Int "$1"
-  num_1=$RESULT
+  num_1_type=$RESULT
   Is_Int "$2"
-  num_2=$RESULT
+  num_2_type=$RESULT
 
-  if [ $num_1 == $num_2 ] && [ $num_1 == "1" ]
+  num_1=`echo "$1" | sed "s/\-\(.\{1,10\}\)$/\1/"`
+  Count_String "$num_1" 0
+  count_1=$RESULT
+  num_1=`echo "000000000$num_1" | sed "s/.*\(.\{10\}\)$/\1/"`
+
+  num_2=`echo "$2" | sed "s/\-\(.\{1,10\}\)$/\1/"`
+  Count_String "$num_2" 0
+  count_2=$RESULT
+  num_2=`echo "000000000$num_2" | sed "s/.*\(.\{10\}\)$/\1/"`
+
+  if [ $num_1_type == $num_2_type ] && [ $num_1_type == "true" ]
   then
-    Inline_Add_Loop "$1" "$2" ""
+
+    if [ "$num_1" == "$num_2" ]
+    then
+      RESULT="true"
+    else
+      Num_1_Big_Than_Num_2 "$num_1" "$num_2"
+    fi
+
+    case $RESULT in
+      "true")
+        Get_Sign_Then_Add "$1" "$2" "$count_1"
+        ;;
+      "false")
+        Get_Sign_Then_Add "$2" "$1" "$count_2"
+        ;;
+      *)
+        RESULT="nothing"
+        ;;
+    esac
   fi
 }
 
@@ -144,7 +320,7 @@ function Mul {
   local constant_number="$1"
   local new_val="$1"
 
-  function Loop {
+  function Mul_Loop {
     case $2 in
       "1")
         RESULT="$1"
@@ -152,13 +328,13 @@ function Mul {
       *)
         Add "$1" "$constant_number"
         new_val="$RESULT"
-        Pred "$2" "1"
-        Loop "$new_val" "$RESULT"
+        Pred "$2"
+        Mul_Loop "$new_val" "$RESULT"
         ;;
     esac
   }
 
-  Loop "$1" "$2"
+  Mul_Loop "$1" "$2"
 }
 
 #-------------------------------#
@@ -187,7 +363,7 @@ function Size {
   local column_grid="          0"
 
   function Set_Column {
-    function Loop {
+    function Set_Column_Loop {
       case "$1" in
         "1")
           return 0
@@ -195,27 +371,26 @@ function Size {
         *)
           column_grid="$column_grid$defalut_grid"
           Pred "$1"
-          Loop "$RESULT"
+          Set_Column_Loop "$RESULT"
           ;;
       esac
     }
-    Loop $1
+    Set_Column_Loop $1
   }
 
   function Set_Row {
-    function Loop {
+    function Set_Row_Loop {
       case "$1" in
         "0")
-          return 0
           ;;
         *)
           echo "$column_grid" >> $local_file
           Pred "$1"
-          Loop "$RESULT"
+          Set_Row_Loop "$RESULT"
           ;;
       esac
     }
-    Loop "$1"
+    Set_Row_Loop "$1"
   }
 
   SIZE_ROW="$1"
