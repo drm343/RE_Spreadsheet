@@ -1,0 +1,17 @@
+字串分析
+
+語言的固定格式為 [command] [parameter 1] [parameter 2]，根據
+用途與實作，parameter 1 可能是一個數值或 command 內的一個函數
+，實作上使用 5 個全域變數，用途如下述。
+
+FILENAME: 目前使用的試算表名稱
+SIZE_ROW: 試算表 ROW 的大小
+SIZE_COLUMN: 試算表 COLUMN 的大小
+ROW: 目前指向試算表的那一個 ROW
+COLUMN: 目前指向試算表的那一個 COLUMN
+
+寫入資料或讀出資料時，根據 ROW 與 COLUMN 決定操作那一格，目前
+尚未加入用來存放資料的 GRID 變數，只能寫入資料到試算表中。
+
+目前已實作的部份可以參考 test_code_1，相關資料及程式碼可在
+https://github.com/drm343/RE_Spreadsheet 取得。

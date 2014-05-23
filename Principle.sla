@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.3">
-    <DOCUMENT ANZPAGES="3" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Ani Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Afrikaans" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="0" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="0" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="15" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Ani Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Afrikaans" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="0" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="0" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -19,15 +19,34 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="12pt"/>
+        <STYLE NAME="標題" ALIGN="1" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="30pt"/>
+        <STYLE NAME="作者" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="20pt"/>
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Ani Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Afrikaans"/>
         <CHARSTYLE CNAME="30pt" CPARENT="Default Character Style" FONT="Unifont Medium" FONTSIZE="30"/>
         <CHARSTYLE CNAME="20pt" CPARENT="Default Character Style" FONT="Unifont Medium" FONTSIZE="20"/>
         <CHARSTYLE CNAME="12pt" CPARENT="Default Character Style" FONT="Unifont Medium" FONTSIZE="12"/>
+        <CHARSTYLE CNAME="中文下標" CPARENT="Default Character Style" FONT="Unifont Medium" FONTSIZE="12" FEATURES="subscript" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
+        <CHARSTYLE CNAME="中文上標" CPARENT="Default Character Style" FONT="Unifont Medium" FONTSIZE="12" FEATURES="superscript" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="背景" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="1.50029634076723e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="Unifont Medium"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
@@ -54,12 +73,24 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="2" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+            <Section Number="0" Name="0" From="0" To="14" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="普通" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="901.89" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="1783.78" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.67" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.56" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.45" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5311.34" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6193.23" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7075.12" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7957.01" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="8838.9" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="9720.79" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="10602.68" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="11484.57" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="12366.46" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="普通" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="150" YPOS="195" WIDTH="500" HEIGHT="50" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="首頁" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 50 500 50 500 50 500 50 0 50 0 50 0 50 0 50 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 50 500 50 500 50 500 50 0 50 0 50 0 50 0 50 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="500" gHeight="400" PSTYLE="Default Paragraph Style" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CPARENT="30pt" CH="使用 RE 與 bash 實作試算表語言"/>
             <trail PARENT="Default Paragraph Style" ALIGN="1"/>
@@ -74,8 +105,8 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="150" YPOS="951.89" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="內文" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="-1">
-            <ITEXT CPARENT="12pt" CH="數值計算"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="150" YPOS="1833.78" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="內文" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="-1">
+            <ITEXT CPARENT="12pt" FONTSIZE="20" FEATURES="inherit shadowed" CH="數值計算"/>
             <para ALIGN="1"/>
             <para/>
             <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="加法包含純數值計算與資料檢查兩部份，純數值計算的部份以加法器為基礎原理，透過查表法處理位數相加與進位，檢查部份則判別輸入資料是否為整數，如果數值處理正確，則回傳值必為整數，因此不檢查回傳值的型別，確定兩者皆為整數，則分析正負號，根據正負號決定計算方式，請參考以下演算法。"/>
@@ -129,14 +160,27 @@
             <ITEXT FONT="Unifont Medium" CH="如下。"/>
             <para/>
             <para/>
-            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="  9x10^r + 9x10^(r-1) + .. + 9"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="  9x10"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit superscript" CH="r"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH=" + 9x10"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit superscript" CH="(r-1)"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH=" + .. + 9"/>
             <para/>
             <para/>
             <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="若 a 值以相同方式表示則"/>
             <ITEXT FONT="Unifont Medium" CH="如下。"/>
             <para/>
             <para/>
-            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="  (a_r)x10^r + a_(r-1)x10^(r-1) + .. a_1"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="  a"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit subscript" CH="r"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="x10"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit superscript" CH="r"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH=" + a"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit subscript" CH="(r-1)"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH="x10"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit superscript" CH="(r-1)"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" CH=" + .. a"/>
+            <ITEXT CPARENT="12pt" FONT="Unifont Medium" FEATURES="inherit subscript" CH="1"/>
             <para/>
             <para/>
             <para/>
@@ -150,7 +194,1112 @@
             <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="150" YPOS="1833.78" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="2">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="150" YPOS="2715.67" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="2">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="150" YPOS="3597.56" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (2)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="5" BACKITEM="-1">
+            <ITEXT FONTSIZE="20" FEATURES="inherit shadowed" CH="re_spreatsheet 程式碼"/>
+            <para ALIGN="1"/>
+            <ITEXT CH="#!/bin/bash"/>
+            <para ALIGN="0"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="# Int Type                      #"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="function Is_Digit {"/>
+            <para/>
+            <ITEXT CH="  RESULT=`echo &quot;$1&quot; | grep &quot;^[0123456789]\{1\}$&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $RESULT in"/>
+            <para/>
+            <ITEXT CH="    &quot;&quot;)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;false&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;true&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Is_Int {"/>
+            <para/>
+            <ITEXT CH="  RESULT=`echo &quot;$1&quot; | grep &quot;\-\?[0123456789]\{1,10\}$&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $RESULT in"/>
+            <para/>
+            <ITEXT CH="    &quot;&quot;)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;false&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;true&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Is_Negative {"/>
+            <para/>
+            <ITEXT CH="  RESULT=`echo &quot;$1&quot; | grep &quot;\-&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $RESULT in"/>
+            <para/>
+            <ITEXT CH="    &quot;&quot;)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;false&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;true&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Decimal_Complement {"/>
+            <para/>
+            <ITEXT CH="  RESULT=`echo &quot;$1&quot; | tr &quot;1234567890&quot; &quot;8765432109&quot;`"/>
+            <para/>
+            <ITEXT CH="  Succ &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Succ {"/>
+            <para/>
+            <ITEXT CH="  Uncheck_Add &quot;$1&quot; &quot;1&quot;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Pred {"/>
+            <para/>
+            <ITEXT CH="  Add &quot;$1&quot; &quot;-1&quot;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Uncheck_Add {"/>
+            <para/>
+            <ITEXT CH="  local carry_result=&quot;false&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # Check Carry      #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  function No_Carry {"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$1&quot; | sed &quot;s/00/0/&quot; | sed &quot;s/01/1/&quot; | sed &quot;s/02/2/&quot; | sed &quot;s/11/2/&quot; | sed &quot;s/03/3/&quot; | sed &quot;s/12/3/&quot; | sed &quot;s/04/4/&quot; | sed &quot;s/13/4/&quot; | sed &quot;s/22/4/&quot; | sed &quot;s/05/5/&quot; | sed &quot;s/14/5/&quot; | sed &quot;s/23/5/&quot; | sed &quot;s/06/6/&quot; | sed &quot;s/15/6/&quot; | sed &quot;s/24/6/&quot; | sed &quot;s/33/6/&quot; | sed &quot;s/07/7/&quot; | sed &quot;s/16/7/&quot; | sed &quot;s/25/7/&quot; | sed &quot;s/34/7/&quot; | sed &quot;s/08/8/&quot; | sed &quot;s/17/8/&quot; | sed &quot;s/26/8/&quot; | sed &quot;s/35/8/&quot; | sed &quot;s/44/8/&quot; | sed &quot;s/09/9/&quot; | sed &quot;s/18/9/&quot; | sed &quot;s/27/9/&quot; | sed &quot;s/36/9/&quot; | sed &quot;s/45/9/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local local_result=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Is_Digit &quot;$RESULT&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    case $RESULT in"/>
+            <para/>
+            <ITEXT CH="      &quot;false&quot;)"/>
+            <para/>
+            <ITEXT CH="        RESULT=&quot;nothing&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        RESULT=$local_result"/>
+            <para/>
+            <ITEXT CH="        carry_result=&quot;false&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Carry {"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$1&quot; | sed &quot;s/19/0/&quot; | sed &quot;s/28/0/&quot; | sed &quot;s/37/0/&quot; | sed &quot;s/46/0/&quot; | sed &quot;s/55/0/&quot; | sed &quot;s/29/1/&quot; | sed &quot;s/38/1/&quot; | sed &quot;s/47/1/&quot; | sed &quot;s/56/1/&quot; | sed &quot;s/39/2/&quot; | sed &quot;s/48/2/&quot; | sed &quot;s/57/2/&quot; | sed &quot;s/66/2/&quot; | sed &quot;s/49/3/&quot; | sed &quot;s/58/3/&quot; | sed &quot;s/67/3/&quot; | sed &quot;s/59/4/&quot; | sed &quot;s/68/4/&quot; | sed &quot;s/77/4/&quot; | sed &quot;s/69/5/&quot; | sed &quot;s/78/5/&quot; | sed &quot;s/79/6/&quot; | sed &quot;s/88/6/&quot; | sed &quot;s/89/7/&quot; | sed &quot;s/99/8/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local local_result=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Is_Digit &quot;$RESULT&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    case $RESULT in"/>
+            <para/>
+            <ITEXT CH="      &quot;false&quot;)"/>
+            <para/>
+            <ITEXT CH="        RESULT=&quot;nothing&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        RESULT=$local_result"/>
+            <para/>
+            <ITEXT CH="        carry_result=&quot;true&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # Inline           #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  function Inline_Add {"/>
+            <para/>
+            <ITEXT CH="    No_Carry &quot;$1$2&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ $RESULT == &quot;nothing&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Carry &quot;$1$2&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Check_Carry_When_Calculate_End {"/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$carry_result&quot; == &quot;true&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Succ &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="    else"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <ITEXT CH="    carry_result=&quot;false&quot;"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Inline_Add_Loop {"/>
+            <para/>
+            <ITEXT CH="    local num_1_car=`echo &quot;$1&quot; | sed &quot;s/.*\(.\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local num_2_car=`echo &quot;$2&quot; | sed &quot;s/.*\(.\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local num_1_cdr=`echo &quot;$1&quot; | sed &quot;s/\(.*\).$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local num_2_cdr=`echo &quot;$2&quot; | sed &quot;s/\(.*\).$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    local new_val=&quot;&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$carry_result&quot; == &quot;true&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Succ &quot;$num_1_car&quot;"/>
+            <para/>
+            <ITEXT CH="      num_1_car=&quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Inline_Add &quot;$num_1_car&quot; &quot;$num_2_car&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$RESULT&quot; == &quot;nothing&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Inline_Add &quot;$num_2_car&quot; &quot;$num_1_car&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    new_val=&quot;$RESULT$3&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$num_1_cdr&quot; == &quot;&quot; ] &amp;&amp; [ &quot;$num_2_cdr&quot; == &quot;&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Check_Carry_When_Calculate_End &quot;0&quot;"/>
+            <para/>
+            <ITEXT CH="      RESULT=`echo &quot;$RESULT$new_val&quot; | sed &quot;s/\([1234567890]\{10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    elif [ &quot;$num_1_cdr&quot; == &quot;&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Check_Carry_When_Calculate_End &quot;$num_2_cdr&quot;"/>
+            <para/>
+            <ITEXT CH="      RESULT=`echo &quot;$num_2_cdr$new_val&quot; | sed &quot;s/\([1234567890]\{10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    elif [ &quot;$num_2_cdr&quot; == &quot;&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Check_Carry_When_Calculate_End &quot;$num_1_cdr&quot;"/>
+            <para/>
+            <ITEXT CH="      RESULT=`echo &quot;$num_1_cdr$new_val&quot; | sed &quot;s/\([1234567890]\{10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    else"/>
+            <para/>
+            <ITEXT CH="      Inline_Add_Loop &quot;$num_1_cdr&quot; &quot;$num_2_cdr&quot; &quot;$new_val&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # main uncheck add #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  Inline_Add_Loop &quot;$1&quot; &quot;$2&quot; &quot;&quot;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Add {"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # Order            #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  function Num_1_Big_Than_Num_2 {"/>
+            <para/>
+            <ITEXT CH="    local num_1_car=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="    local num_2_car=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="    local num_1_cdr=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="    local num_2_cdr=&quot;&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    function Loop {"/>
+            <para/>
+            <ITEXT CH="      RESULT=`echo &quot;$1&quot; | sed &quot;s/0./false/&quot; | sed &quot;s/.*0/true/&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="      case $RESULT in"/>
+            <para/>
+            <ITEXT CH="        &quot;true&quot; | &quot;false&quot;)"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="        *)"/>
+            <para/>
+            <ITEXT CH="          RESULT=`echo &quot;$RESULT&quot; | tr &quot;123456789&quot; &quot;012345678&quot;`"/>
+            <para/>
+            <ITEXT CH="          Loop &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="      esac"/>
+            <para/>
+            <ITEXT CH="    }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Car $1"/>
+            <para/>
+            <ITEXT CH="    num_1_car=$RESULT"/>
+            <para/>
+            <ITEXT CH="    Car $2"/>
+            <para/>
+            <ITEXT CH="    num_2_car=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$num_1_car&quot; != &quot;$num_2_car&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Loop &quot;$num_1_car$num_2_car&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    case $RESULT in"/>
+            <para/>
+            <ITEXT CH="      &quot;true&quot; | &quot;false&quot;)"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        Cdr $1"/>
+            <para/>
+            <ITEXT CH="        num_1_cdr=$RESULT"/>
+            <para/>
+            <ITEXT CH="        Cdr $2"/>
+            <para/>
+            <ITEXT CH="        num_2_cdr=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="        if [ &quot;$num_1_cdr&quot; != &quot;&quot; ]"/>
+            <para/>
+            <ITEXT CH="        then"/>
+            <para/>
+            <ITEXT CH="          Num_1_Big_Than_Num_2 &quot;$num_1_cdr&quot; &quot;$num_2_cdr&quot;"/>
+            <para/>
+            <ITEXT CH="        fi"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # List Process     #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  function Car {"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$1&quot; | sed &quot;s/\(.\).*/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Cdr {"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$1&quot; | sed &quot;s/.\(.*\)/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Count_String {"/>
+            <para/>
+            <ITEXT CH="    local new_val=&quot;&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Cdr $1"/>
+            <para/>
+            <ITEXT CH="    new_val=$RESULT"/>
+            <para/>
+            <ITEXT CH="    Succ $2"/>
+            <para/>
+            <ITEXT CH="    count=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$new_val&quot; != &quot;&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      Count_String &quot;$new_val&quot; &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # Check Sign       #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  function Get_Sign_Then_Add {"/>
+            <para/>
+            <ITEXT CH="    local sign=`echo &quot;$1&quot; | tr &quot;1234567890&quot; &quot;          &quot; | sed &quot;s/ *$//&quot;`"/>
+            <para/>
+            <ITEXT CH="    local row_re=&quot;s/.*\(.\{$3\}\)$/\1/&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Is_Negative $1"/>
+            <para/>
+            <ITEXT CH="    num_1_is_negative=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Is_Negative $2"/>
+            <para/>
+            <ITEXT CH="    num_2_is_negative=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$1&quot; | sed &quot;s/\-\(.\{1,10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    num_1=$RESULT"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo &quot;$2&quot; | sed &quot;s/\-\(.\{1,10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    num_2=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$num_1_is_negative&quot; != &quot;$num_2_is_negative&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      RESULT=`echo &quot;000000000$num_2&quot; | sed &quot;$row_re&quot;`"/>
+            <para/>
+            <ITEXT CH="      Decimal_Complement $RESULT"/>
+            <para/>
+            <ITEXT CH="      num_2=$RESULT"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Uncheck_Add $num_1 $num_2"/>
+            <para/>
+            <ITEXT CH="    RESULT=`echo $RESULT | sed &quot;$row_re&quot; | sed &quot;s/^0*0?$\(.*\)/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    RESULT=&quot;$sign$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  # Main Add         #"/>
+            <para/>
+            <ITEXT CH="  #------------------#"/>
+            <para/>
+            <ITEXT CH="  local num_1=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="  local num_2=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="  local num_1_is_digit=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="  local num_2_is_digit=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="  local count_1=&quot;&quot;"/>
+            <para/>
+            <ITEXT CH="  local count_2=&quot;&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  Is_Int &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="  num_1_type=$RESULT"/>
+            <para/>
+            <ITEXT CH="  Is_Int &quot;$2&quot;"/>
+            <para/>
+            <ITEXT CH="  num_2_type=$RESULT"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  num_1=`echo &quot;$1&quot; | sed &quot;s/\-\(.\{1,10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  Count_String &quot;$num_1&quot; 0"/>
+            <para/>
+            <ITEXT CH="  count_1=$RESULT"/>
+            <para/>
+            <ITEXT CH="  num_1=`echo &quot;000000000$num_1&quot; | sed &quot;s/.*\(.\{10\}\)$/\1/&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  num_2=`echo &quot;$2&quot; | sed &quot;s/\-\(.\{1,10\}\)$/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  Count_String &quot;$num_2&quot; 0"/>
+            <para/>
+            <ITEXT CH="  count_2=$RESULT"/>
+            <para/>
+            <ITEXT CH="  num_2=`echo &quot;000000000$num_2&quot; | sed &quot;s/.*\(.\{10\}\)$/\1/&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  if [ $num_1_type == $num_2_type ] &amp;&amp; [ $num_1_type == &quot;true&quot; ]"/>
+            <para/>
+            <ITEXT CH="  then"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    if [ &quot;$num_1&quot; == &quot;$num_2&quot; ]"/>
+            <para/>
+            <ITEXT CH="    then"/>
+            <para/>
+            <ITEXT CH="      RESULT=&quot;true&quot;"/>
+            <para/>
+            <ITEXT CH="    else"/>
+            <para/>
+            <ITEXT CH="      Num_1_Big_Than_Num_2 &quot;$num_1&quot; &quot;$num_2&quot;"/>
+            <para/>
+            <ITEXT CH="    fi"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    case $RESULT in"/>
+            <para/>
+            <ITEXT CH="      &quot;true&quot;)"/>
+            <para/>
+            <ITEXT CH="        Get_Sign_Then_Add &quot;$1&quot; &quot;$2&quot; &quot;$count_1&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      &quot;false&quot;)"/>
+            <para/>
+            <ITEXT CH="        Get_Sign_Then_Add &quot;$2&quot; &quot;$1&quot; &quot;$count_2&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        RESULT=&quot;nothing&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <ITEXT CH="  fi"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Mul {"/>
+            <para/>
+            <ITEXT CH="  local constant_number=&quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="  local new_val=&quot;$1&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Mul_Loop {"/>
+            <para/>
+            <ITEXT CH="    case $2 in"/>
+            <para/>
+            <ITEXT CH="      &quot;1&quot;)"/>
+            <para/>
+            <ITEXT CH="        RESULT=&quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        Add &quot;$1&quot; &quot;$constant_number&quot;"/>
+            <para/>
+            <ITEXT CH="        new_val=&quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="        Pred &quot;$2&quot;"/>
+            <para/>
+            <ITEXT CH="        Mul_Loop &quot;$new_val&quot; &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  Mul_Loop &quot;$1&quot; &quot;$2&quot;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="# file set                      #"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="function File {"/>
+            <para/>
+            <ITEXT CH="  function New {"/>
+            <para/>
+            <ITEXT CH="    FILENAME=&quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="    echo &quot;&quot; &gt; $FILENAME"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $1 in"/>
+            <para/>
+            <ITEXT CH="    &quot;New&quot;)"/>
+            <para/>
+            <ITEXT CH="      $1 $2"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      echo &quot;no file $1 or command error&quot;"/>
+            <para/>
+            <ITEXT CH="      exit"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Size {"/>
+            <para/>
+            <ITEXT CH="  local local_file=&quot;tmp_$FILENAME&quot;"/>
+            <para/>
+            <ITEXT CH="  local defalut_grid=&quot;          0&quot;"/>
+            <para/>
+            <ITEXT CH="  local column_grid=&quot;          0&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Set_Column {"/>
+            <para/>
+            <ITEXT CH="    function Set_Column_Loop {"/>
+            <para/>
+            <ITEXT CH="      case &quot;$1&quot; in"/>
+            <para/>
+            <ITEXT CH="        &quot;1&quot;)"/>
+            <para/>
+            <ITEXT CH="          return 0"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="        *)"/>
+            <para/>
+            <ITEXT CH="          column_grid=&quot;$column_grid$defalut_grid&quot;"/>
+            <para/>
+            <ITEXT CH="          Pred &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="          Set_Column_Loop &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="      esac"/>
+            <para/>
+            <ITEXT CH="    }"/>
+            <para/>
+            <ITEXT CH="    Set_Column_Loop $1"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Set_Row {"/>
+            <para/>
+            <ITEXT CH="    function Set_Row_Loop {"/>
+            <para/>
+            <ITEXT CH="      case &quot;$1&quot; in"/>
+            <para/>
+            <ITEXT CH="        &quot;0&quot;)"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="        *)"/>
+            <para/>
+            <ITEXT CH="          echo &quot;$column_grid&quot; &gt;&gt; $local_file"/>
+            <para/>
+            <ITEXT CH="          Pred &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="          Set_Row_Loop &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="          ;;"/>
+            <para/>
+            <ITEXT CH="      esac"/>
+            <para/>
+            <ITEXT CH="    }"/>
+            <para/>
+            <ITEXT CH="    Set_Row_Loop &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  SIZE_ROW=&quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="  SIZE_COLUMN=&quot;$2&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  Set_Column &quot;$2&quot;"/>
+            <para/>
+            <ITEXT CH="  Set_Row &quot;$1&quot;"/>
+            <para/>
+            <ITEXT CH="  mv $local_file $FILENAME"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="# move grid register            #"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="function Move {"/>
+            <para/>
+            <ITEXT CH="  function Row {"/>
+            <para/>
+            <ITEXT CH="    ROW=$1"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  function Column {"/>
+            <para/>
+            <ITEXT CH="    COLUMN=$1"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $1 in"/>
+            <para/>
+            <ITEXT CH="    &quot;Row&quot; | &quot;Column&quot;)"/>
+            <para/>
+            <ITEXT CH="      $1 $2"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      echo &quot;move $1 error&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="# set grid value                #"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="function Grid {"/>
+            <para/>
+            <ITEXT CH="  function Set {"/>
+            <para/>
+            <ITEXT CH="    local set_value=&quot;           $1&quot;"/>
+            <para/>
+            <ITEXT CH="    set_value=`echo &quot;$set_value&quot; | sed &quot;s/^.*\(.\{11\}\)$/\1/&quot;`"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    Pred &quot;$COLUMN&quot; &quot;1&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    case $RESULT in"/>
+            <para/>
+            <ITEXT CH="      &quot;0&quot;)"/>
+            <para/>
+            <ITEXT CH="        RESULT=0"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="      *)"/>
+            <para/>
+            <ITEXT CH="        Mul &quot;11&quot; &quot;$RESULT&quot;"/>
+            <para/>
+            <ITEXT CH="        ;;"/>
+            <para/>
+            <ITEXT CH="    esac"/>
+            <para/>
+            <para/>
+            <ITEXT CH="    search=&quot;\(.\{$RESULT\}\).\{11\}\(.*\)&quot;"/>
+            <para/>
+            <ITEXT CH="    row_re=$ROW&quot;s/$search/\1$set_value\2/&quot;"/>
+            <para/>
+            <ITEXT CH="    sed -i &quot;$row_re&quot; &quot;$FILENAME&quot;"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  case $1 in"/>
+            <para/>
+            <ITEXT CH="    &quot;Set&quot;)"/>
+            <para/>
+            <ITEXT CH="      $1 $2"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="    *)"/>
+            <para/>
+            <ITEXT CH="      echo &quot;Grid set error&quot;"/>
+            <para/>
+            <ITEXT CH="      ;;"/>
+            <para/>
+            <ITEXT CH="  esac"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="# main                          #"/>
+            <para/>
+            <ITEXT CH="#-------------------------------#"/>
+            <para/>
+            <ITEXT CH="function Get_Command {"/>
+            <para/>
+            <ITEXT CH="  local command=`echo &quot;$1&quot; | sed &quot;s/\(.*\) .* .*/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  local parameter=`echo &quot;$1&quot; | sed &quot;s/.* \(.*\) .*/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  local target=`echo &quot;$1&quot; | sed &quot;s/.* .* \(.*\)/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="  $command $parameter $target"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="function Main_Loop {"/>
+            <para/>
+            <ITEXT CH="  local file_number=$2&quot;q;d&quot;"/>
+            <para/>
+            <ITEXT CH="  local new_line=`sed &quot;$file_number&quot; $1`"/>
+            <para/>
+            <ITEXT CH="  Get_Command &quot;$new_line&quot;"/>
+            <para/>
+            <ITEXT CH="  echo &quot;$new_line&quot;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  if [ ! &quot;$2&quot; == &quot;$3&quot; ]"/>
+            <para/>
+            <ITEXT CH="  then"/>
+            <para/>
+            <ITEXT CH="    Add $2 &quot;1&quot;"/>
+            <para/>
+            <ITEXT CH="    Main_Loop &quot;$1&quot; &quot;$RESULT&quot; &quot;$3&quot;"/>
+            <para/>
+            <ITEXT CH="  fi"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="# FILENAME"/>
+            <para/>
+            <ITEXT CH="# SIZE_ROW"/>
+            <para/>
+            <ITEXT CH="# SIZE_COLUMN"/>
+            <para/>
+            <ITEXT CH="# ROW"/>
+            <para/>
+            <ITEXT CH="# COLUMN"/>
+            <para/>
+            <para/>
+            <ITEXT CH="case $1 in"/>
+            <para/>
+            <ITEXT CH="  &quot;&quot;)"/>
+            <para/>
+            <ITEXT CH="    echo &quot;no data&quot;"/>
+            <para/>
+            <ITEXT CH="    ;;"/>
+            <para/>
+            <ITEXT CH="  *)"/>
+            <para/>
+            <ITEXT CH="    LAST_LINE=`grep -n &quot;.*&quot; $1 | tail -n 1 | sed &quot;s/\([1234567890]*\):.*/\1/&quot;`"/>
+            <para/>
+            <ITEXT CH="    SIZE_ROW=1"/>
+            <para/>
+            <ITEXT CH="    SIZE_COLUMN=1"/>
+            <para/>
+            <ITEXT CH="    ROW=1"/>
+            <para/>
+            <ITEXT CH="    COLUMN=1"/>
+            <para/>
+            <ITEXT CH="    Main_Loop $1 1 $LAST_LINE"/>
+            <para/>
+            <ITEXT CH="    ;;"/>
+            <para/>
+            <ITEXT CH="esac"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="150" YPOS="4479.45" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (3)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="6" BACKITEM="4">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="150" YPOS="5361.34" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (4)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="7" BACKITEM="5">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="150" YPOS="6243.23" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (5)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="8" BACKITEM="6">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="150" YPOS="7125.12" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (6)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="9" BACKITEM="7">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="150" YPOS="8007.01" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (7)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="10" BACKITEM="8">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="150" YPOS="8888.9" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (8)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="11" BACKITEM="9">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="150" YPOS="9770.79" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (9)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="12" BACKITEM="10">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="150" YPOS="10652.68" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (10)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="13" BACKITEM="11">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="150" YPOS="11534.57" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (11)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="14" BACKITEM="12">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="150" YPOS="12416.46" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (12)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="13">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="150" YPOS="2583.78" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="150" YPOS="3465.67" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="150" YPOS="820" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="150" YPOS="4347.56" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="150" YPOS="5229.45" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="150" YPOS="6111.34" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="150" YPOS="6993.23" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="150" YPOS="7875.12" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="150" YPOS="8757.01" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="150" YPOS="9638.9" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="150" YPOS="10520.79" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="150" YPOS="11402.68" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="150" YPOS="12284.57" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="150" YPOS="13166.46" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="150" YPOS="951.89" WIDTH="500" HEIGHT="750" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Copy of 內文 (13)" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 750 500 750 500 750 500 750 0 750 0 750 0 750 0 750 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="20" FEATURES="inherit shadowed" CH="字串分析"/>
+            <para ALIGN="1"/>
+            <para/>
+            <ITEXT CH="整個語言限制只使用 bash 的 if、case、echo、grep、sed、tr、變數及 function 實作，因遞迴函數較直覺，實作中的重複計算皆使用尾遞迴，當需要加快計算速度時，可優先將尾遞迴函數全部替換成迴圈，實作時將程式碼分成兩個部份，第一為字串分析的部份，第二為數值計算的部份，語言的固定格式為 [command] [parameter 1] [parameter 2]，根據用途與實作，parameter 1 可能是一個數值或 command內的一個函數，實作上使用 5個全域變數，用途如下所述。"/>
+            <para/>
+            <para/>
+            <ITEXT CH="FILENAME:     目前使用的試算表名稱"/>
+            <para/>
+            <ITEXT CH="SIZE_ROW:     試算表 ROW的大小"/>
+            <para/>
+            <ITEXT CH="SIZE_COLUMN:  試算表 COLUMN 的大小"/>
+            <para/>
+            <ITEXT CH="ROW:          目前指向試算表的那一個 ROW"/>
+            <para/>
+            <ITEXT CH="COLUMN:       目前指向試算表的那一個 COLUMN"/>
+            <para/>
+            <para/>
+            <ITEXT CH="寫入資料或讀出資料時，根據 ROW與 COLUMN 決定操作那一格，目前尚未加入用來存放資料的 GRID變數，只能寫入資料到試算表中，實作程式碼請參考 re_spreatsheet ，相關資料及程式碼可在 https://github.com/drm343/RE_Spreadsheet 取得。"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="150" YPOS="1701.89" WIDTH="500" HEIGHT="20" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 500 0 500 0 500 0 500 0 500 20 500 20 500 20 500 20 0 20 0 20 0 20 0 20 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <ITEXT CH="頁共"/>
+            <var name="pgco"/>
+            <ITEXT CH="頁"/>
+            <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
